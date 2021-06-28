@@ -1,0 +1,3 @@
+[submodule "k-dss"]
+	path = k-dss
+	url = https://github.com/makerdao/k-dss
